@@ -1,4 +1,4 @@
-# Chatterbox FastRTC Realtime Emotion
+# Chatterbox FastRTC Realtime Emotion (Local)
 
 Real-time conversational AI with voice cloning and emotion detection. Analyses conversation context to deliver dramatically expressive responses using your cloned voice. Built with FastRTC and Chatterbox TTS for natural, emotionally-aware voice interactions.
 
