@@ -13,6 +13,7 @@ Real-time conversational AI with voice cloning and emotion detection. Analyses c
 - 🧠 **Smart Context**: Maintains conversation history with emotional awareness
 - 🎵 **12 Set Emotions**: Excited, happy, sad, angry, surprised, confused, tired, worried, calm, frustrated, enthusiastic, neutral
 
+YouTube Demo:
 [![Watch the video](https://img.youtube.com/vi/ucWV44D5rW0/hqdefault.jpg)](https://youtu.be/ucWV44D5rW0)
 
 ## 🛠️ Installation
